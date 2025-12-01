@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youmin Zhang
 - 👀 I’m interested in Stereo Matching, SLAM, Monodepth Prediction/Completion
-- 🌱 I’m currently a PhD student at University of Bologna
-- 💞️ I’m looking for a research scientist position ...
+- 🌱 I’m currently Cheif Scientist at Rawmantic AI
+- 💞️ We are looking for talented professionals in SLAM, 3D Reconstruction, and Depth Sensing. We support both remote and onsite positions, can be intern or formal.
 - 📫 How to reach me: youmin.zhang2@unibo.it
 
 <!---
